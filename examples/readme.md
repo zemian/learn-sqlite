@@ -1,1 +1,4 @@
-More sample databases can be found at: https://www.sqltutorial.org/sql-sample-database/
+# Example DB For Studying
+
+* https://www.sqltutorial.org/sql-sample-database/
+* https://www.sqlitetutorial.net - It uses the `chinook.db` sample.
