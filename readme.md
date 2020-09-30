@@ -15,6 +15,7 @@ You can also start a in-memory DB without a file parameter.
 ```
 .databases
 .tables
+.schema hello
 .quit
 ```
 
