@@ -37,3 +37,9 @@ delete from hello where name = 'foo';
 ## Load SQL from File
 
     sqlite> .read examples/test.sql
+
+## Sample DB
+
+An online music store DB: chinook.db 
+
+https://www.sqlitetutorial.net/sqlite-sample-database/
